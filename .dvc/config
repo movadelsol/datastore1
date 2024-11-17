@@ -2,3 +2,5 @@
     remote = myremote
 ['remote "myremote"']
     url = /tmp/dvcstore
+['remote "storage"']
+    url = ssh://192.168.10.105/home/mova/dvcstore
