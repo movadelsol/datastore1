@@ -1,5 +1,5 @@
 [core]
-    remote = myremote
+    remote = storage
 ['remote "myremote"']
     url = /tmp/dvcstore
 ['remote "storage"']
