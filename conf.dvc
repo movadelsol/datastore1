@@ -1,0 +1,6 @@
+outs:
+- md5: 36ea3babb01042042e31775703f0d019.dir
+  size: 30
+  nfiles: 5
+  hash: md5
+  path: conf
